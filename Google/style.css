@@ -1,0 +1,43 @@
+
+html
+{
+    height: 100vh;
+}
+
+#header
+{
+display: flex ;
+justify-content: flex-end;
+}
+
+body
+{
+height: 70vh;
+}
+
+#bottom
+{
+    height: 30vh;
+    background-color: #f2f2f2;
+}
+
+
+#bottom3
+{
+    display: flex ;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#bottom4
+{
+    display: flex ;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
